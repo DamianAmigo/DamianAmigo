@@ -42,7 +42,24 @@
 </div>
                                                                                       
 </td>
+<tr>
 
+</td> 
+<td width="50%">
+<h3 align="center">Website Presentation</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://i.imgur.com/N1KYtJD.png" width="400" alt="Own website"></a>
+<p>
+<a href="https://github.com/DamianAmigo/own_website" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Website to be used as a presentation of my projects, both on websites and in Python applications. Here I detail my education, experience, portfolio and my resume.
+This site was created with HTML, PHP, Javascript and using Bootstrap </p>
+</div>
+                                                                                      
+</td>
       
 
  
