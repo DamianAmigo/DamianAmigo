@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Microscopy image analysis tool.</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://i.imgur.com/IyYRASK.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="#" target="_blank"><img src="assets/img/portfolio/portfolio-1.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/DamianAmigo/Analyzes_protein.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
