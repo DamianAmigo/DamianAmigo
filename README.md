@@ -19,12 +19,12 @@
 <td width="50%">
 <h3 align="center">Microscopy image analysis tool.</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="assets/img/portfolio/portfolio-1.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="#" target="_blank"><img src="https://amigodamian.dev/assets/img/portfolio/portfolio-1.jpg" width="400" alt="Analyzes_protein"></a>
 <p>
 <a href="https://github.com/DamianAmigo/Analyzes_protein.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>Analyzes different <strong> protein expression surfaces </strong> on different biological tissues- It returns the user a data sheet with the different <strong>proteins</strong> contained in the images.  
+<p> Analyses different <strong> protein expression surfaces </strong> on different biological tissues- It returns the user a data sheet with the different <strong>proteins</strong> contained in the images.  
 </div>
                                                                                       
 </td> 
